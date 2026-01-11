@@ -14,6 +14,7 @@ module.exports = {
     'color-function-notation': 'modern',
     'color-hex-length': 'short',
     'length-zero-no-unit': true,
+    'font-family-name-quotes': 'always-where-required',
     'function-url-quotes': 'never',
     'import-notation': 'url',
     'shorthand-property-no-redundant-values': true,
